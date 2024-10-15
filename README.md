@@ -9,3 +9,5 @@ Each student brings their unique passion, eager to learn, not just to solve puzz
 It’s not just about teaching the latest forensic techniques—it's about instilling the ethics, patience, and relentless curiosity that make a true investigator. There are long nights, moments of frustration, but when a student cracks a complex challenge or masters a difficult concept, I’m reminded of why I chose this path.
 
 The NCFI isn’t just a course; it’s a mission. It’s a privilege to guide these future guardians of digital justice, knowing they’ll go on to make the world a safer place.
+
+<!-- https://pastebin.com/4yiZ3JGx -->
